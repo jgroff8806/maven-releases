@@ -1,0 +1,23 @@
+# Maven build directory
+target/
+
+# Maven release plugin files
+release.properties
+pom.xml.releaseBackup
+
+# Maven specific files
+dependency-reduced-pom.xml
+buildNumber.properties
+
+# IDE specific files
+.idea/*
+*.iml
+*.iws
+.classpath
+.project
+.settings/
+.vscode/
+
+# OS specific files
+.DS_Store
+Thumbs.db
